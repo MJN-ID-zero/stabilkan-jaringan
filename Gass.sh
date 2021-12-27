@@ -1,4 +1,5 @@
 #!/bin/bash
+clear
 sleep 1
 echo
 toilet -f big -F gay By jan jun
