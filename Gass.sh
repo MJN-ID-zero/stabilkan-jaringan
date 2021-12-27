@@ -19,7 +19,7 @@ read -p "pilih mana :" bro
 if [ $bro = 1 ] || [ $bro = 1 ]
 then
 clear
-toilet -f big -F jan
+toilet -f big -F gay jan
 echo "Stabilkan Jaringan By MJN"
 sleep 2
 ping -s1000 1.1.1.1 | lolcat
