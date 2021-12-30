@@ -4,7 +4,7 @@ clear
 
 sleep 1
 echo
-toilet -f big -F gay by jan jan
+toilet -f big -F gay by YOU
 echo $green "selamat datang"
 echo
 sleep 2
